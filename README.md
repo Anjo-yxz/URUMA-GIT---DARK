@@ -21,7 +21,8 @@ Você informa uma variável (ex: EMAIL_PASS, TOKEN, etc.)
 O bot faz uma busca por essa variável em repositórios públicos
 Os resultados encontrados são salvos automaticamente em:
 /Database/UrumaGITHUB.txt
-📁 Estrutura do Projeto
+
+# 📁 Estrutura do Projeto
 ```
 src/
 │
