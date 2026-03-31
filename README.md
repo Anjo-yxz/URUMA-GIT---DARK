@@ -61,8 +61,10 @@ Escolha o modo de busca
 O sistema vai perguntar:
 
 # Usar variáveis padrão?
-Sim → usa variáveis já definidas no projeto
+Sim → usa variáveis já definidas no projeto 
+
 Não → você digita sua própria variável
+
 Resultado
 O bot irá buscar no GitHub
 
